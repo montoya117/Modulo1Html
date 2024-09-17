@@ -1,0 +1,29 @@
+.header{
+    background-color: #083EFF;
+    background-image: url("../img/6927689.jpg");
+    padding-top: 3em;
+    margin-bottom: 2em;
+    height: 40vh;
+}
+
+#numero_input{
+    border-radius: 20px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+#contenedor_pares{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 35vh;
+}
+#contenedor_impares{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 35vh;
+}
+#contenedor_primos{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 35vh; 
+}
+#numeros_pares, #numeros_impares, #numeros_primos {
+    font-size: 25px;
+}
